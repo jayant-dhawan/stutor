@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "1012058660649",
-    "firebase_url": "https://stutor-3eaee.firebaseio.com",
-    "project_id": "stutor-3eaee",
-    "storage_bucket": "stutor-3eaee.appspot.com"
+    "project_number": "724304778595",
+    "firebase_url": "https://stutor-app.firebaseio.com",
+    "project_id": "stutor-app",
+    "storage_bucket": "stutor-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1012058660649:android:358690413c6cdff0",
+        "mobilesdk_app_id": "1:724304778595:android:358690413c6cdff0",
         "android_client_info": {
           "package_name": "com.stutor.android"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1012058660649-7j8ks5o2271giqq5tulqnmlbqmetetjf.apps.googleusercontent.com",
+          "client_id": "724304778595-5qf1ne65lt5bj5iltek4q70uaeibqi6p.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.stutor.android",
@@ -23,13 +23,13 @@
           }
         },
         {
-          "client_id": "1012058660649-purd8o4ko08d3rtqqsle7q3210uegtka.apps.googleusercontent.com",
+          "client_id": "724304778595-9osq0vqdcnv2cq3saptte5dcq4t8debo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDXRtGGxTvfqVsUqzE-LgbL8br-7Ak8sXg"
+          "current_key": "AIzaSyBW4KBUK02xupuiE08t_ywz-ganVaT4JkQ"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "1012058660649-purd8o4ko08d3rtqqsle7q3210uegtka.apps.googleusercontent.com",
+              "client_id": "724304778595-9osq0vqdcnv2cq3saptte5dcq4t8debo.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
