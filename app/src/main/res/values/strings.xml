@@ -4,5 +4,10 @@
     <string name="password">Password</string>
     <string name="sign_in">Sign In</string>
     <string name="not_a_registered_user_sign_up">Not a Registered User? Sign Up.</string>
-    <string name="stutor">stutor</string>
+    <string name="logo">logo</string>
+    <string name="auth_failed">Wrong Password</string>
+    <string name="minimum_password">Password lenght is shorter than 6 characters.</string>
+    <string name="we_need_your_ristered_email_id_to_send_you_password_reset_instructions">We need your ristered Email Id to send you password reset instructions.</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
 </resources>
