@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "724304778595-oejphj3j86cguujkln4le6qaa0ign5aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stutor.android",
+            "certificate_hash": "f7332108c43d86a8e08f3891ad1243e40b91a22e"
+          }
+        },
+        {
           "client_id": "724304778595-9osq0vqdcnv2cq3saptte5dcq4t8debo.apps.googleusercontent.com",
           "client_type": 3
         }
